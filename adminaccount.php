@@ -74,7 +74,7 @@ if(!isset($_SESSION['adminid']))
                 <div class="icon"> <i class="zmdi zmdi-balance col-cyan"></i> </div>
                 <div class="content">
                     <div class="text">Hospital Earning</div>
-                    <div class="number">₱ 
+                    <div class="number">Rs 
                         <?php 
               $sql = "SELECT sum(bill_amount) as total  FROM `billing_records` ";
               $qsql = mysqli_query($con,$sql);

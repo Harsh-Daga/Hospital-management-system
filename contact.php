@@ -13,7 +13,7 @@
         <div class="heading-block">
           <h4>CONTACT US</h4>
           <hr>
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </span> </div>
+          <span>Feel Free to Contact Us for any addtional information! </span> </div>
         <div class="contact">
           <div class="contact-form"> 
             <!-- FORM  -->

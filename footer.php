@@ -6,7 +6,7 @@
         <div class="col-sm-7">
           <h6>About Us</h6>
           <div class="about-foot">
-            <p> A Hospital Management System (HMS) refers to a system designed to manage healthcare data. This includes systems that collect, store, manage and transmit a patient’s electronic medical record (EMR), a hospital’s operational management or a system supporting healthcare policy decisions. </p>
+            <p> A One Health (HMS) refers to a system designed to manage healthcare data. This includes systems that collect, store, manage and transmit a patient’s electronic medical record (EMR), a hospital’s operational management or a system supporting healthcare policy decisions. </p>
           </div>
         </div>
         

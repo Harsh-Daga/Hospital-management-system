@@ -18,7 +18,7 @@ $rspatientappointment = mysqli_fetch_array($qsqlpatientappointment);
 <div class=" container-fluid">
     <div class="block-header">
         <h2>Dashboard</h2>
-        <small class="text-muted">Welcome to Hospital Management System</small>
+        <small class="text-muted">Welcome to One Health</small>
     </div>
 
 

@@ -22,7 +22,7 @@ if(isset($_POST['submit']))
   <div id="container">
     <h6>Our Address</h6>
     <p>
-Online Hospital Management System , Bangalore<br />
+Online One Health , Bangalore<br />
 
 <strong>tel</strong>:080 65110488<br />
 

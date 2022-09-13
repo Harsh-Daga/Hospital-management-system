@@ -62,7 +62,7 @@ $tim = date("H:i:s");
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-          <p>Welcome To Hospital Management System</p>
+          <p>Welcome To One Health</p>
         </div>
         <div class="col-sm-6">
           <div class="social-icons"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-youtube"></i></a> </div>
@@ -74,7 +74,7 @@ $tim = date("H:i:s");
   <!-- Header -->
   <header class="header-style-2">
     <div class="container">
-      <a href="index.php" style="height: 52px; font-size:20px;">HOSPITAL MANAGMENT SYSTEM</a>
+      <a href="index.php" style="height: 52px; font-size:20px;">ONE HEALTH</a>
       <!-- <div class="head-info">
         <ul>
           <li> <i class="fa fa-phone"></i>

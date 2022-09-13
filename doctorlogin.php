@@ -58,7 +58,7 @@ if(isset($_POST['submit']))
 ?></div>
     <div class="card-top"></div>
     <div class="card">
-        <h1 class="title"><span>Hospital Management System</span>Doctor Login <span class="msg">Hello, Doctor!</span></h1>
+        <h1 class="title" style="color:#A10035;">Doctor Login</h1>
         <div class="col-md-12">
 
     <form method="post" action="" name="frmadminlogin" id="sign_in" onSubmit="return validateform()">
@@ -76,8 +76,7 @@ if(isset($_POST['submit']))
                         <label for="rememberme">Remember Me</label>
                     </div>
                     <div class="text-center">
-					<input type="submit" name="submit" id="submit" value="Login" class="btn btn-raised waves-effect g-bg-cyan" /></div>
-                    <div class="text-center"> <a href="forgot-password.html">Forgot Password?</a></div>
+					<input type="submit" name="submit" id="submit" value="Login" class="btn btn-raised waves-effect" style="color:#FEC260; font-weight:bolder; background-color:#A10035;" /></div>
                 </div>
             </form>
         </div>

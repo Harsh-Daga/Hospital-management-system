@@ -11,7 +11,6 @@
             <!-- MAIN IMAGE --> 
             <img src="images/slider-bg-1.png"  alt="slider"  data-bgposition=" center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
-            <!-- LAYER NR. 1 -->
             <div class="tp-caption sfl tp-resizeme" 
                 data-x="center" data-hoffset="0" 
                 data-y="center" data-voffset="-120" 
@@ -23,9 +22,8 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.4" 
                 data-endspeed="300"
-                style="z-index: 5; font-size:50px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Hospital Management System</div>
-            
-            <!-- LAYER NR. 2 -->
+                style="z-index: 5; font-size:50px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">One Health</div>
+
             <div class="tp-caption sfr tp-resizeme" 
                 data-x="center" data-hoffset="0" 
                 data-y="center" data-voffset="-60" 
@@ -39,7 +37,7 @@
                 data-endspeed="300" 
                 style="z-index: 6; font-size:40px; color:#fff; font-weight:500; white-space: nowrap;">We care about your health </div>
             
-            <!-- LAYER NR. 3 -->
+
             <div class="tp-caption sfb tp-resizeme" 
                 data-x="center" data-hoffset="0" 
                 data-y="center" data-voffset="0" 
@@ -53,7 +51,7 @@
                 data-endspeed="300" 
                 style="z-index: 7;  font-size:22px; color:#fff; font-weight:500; max-width: auto; max-height: auto; white-space: nowrap;">Best Hospitality Services in your town</div>
             
-            <!-- LAYER NR. 4 -->
+
             <div class="tp-caption lfb tp-resizeme scroll" 
                 data-x="center" data-hoffset="0" 
                 data-y="center" data-voffset="120"
@@ -64,7 +62,7 @@
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
                 data-scrolloffset="0"
-                style="z-index: 8;"><a href="#." class="btn">Book Now</a> </div>
+                style="z-index: 8;"><a href="patientappointment.php" class="btn">Book Now</a> </div>
           </li>
           
           <!-- SLIDE  -->
@@ -98,7 +96,7 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.4" 
                 data-endspeed="300"
-                style="z-index: 5; font-size:55px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Hospital Management System</div>
+                style="z-index: 5; font-size:55px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">One Health</div>
             
             <!-- LAYER NR. 3 -->
             <div class="tp-caption sfb tp-resizeme" 
@@ -125,7 +123,7 @@
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
                 data-scrolloffset="0"
-                style="z-index: 8;"><a href="#." class="btn">CONTACT NOW</a> </div>
+                style="z-index: 8;"><a href="contact.php" class="btn">CONTACT NOW</a> </div>
           </li>
           
           <!-- SLIDE  -->
@@ -177,7 +175,7 @@
             <!-- Intro Detail -->
             <div class="col-md-8">
               <div class="text-sec">
-                <h5 style="color:#100720;">Health Check Up At Hospital Management System</h5>
+                <h5 style="color:#100720;">Health Check Up At One Health</h5>
                 <p>Labaid Diagnostic Centre, in addition to providing world-class clinical lab services, it has a pool of specialists from various medical specialties who serve suffering patients as outpatients. They are all well-known and well-respected in their medical fields for excellent clinical management.</p>
                 <ul class="row">
                   <li class="col-sm-6">
@@ -190,7 +188,7 @@
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> ONLINE APPOINTMENT</h6>
-                    <p>Hospital Management System Supports Online Appointment. Check the appointment tab above. </p>
+                    <p>One Health Supports Online Appointment. Check the appointment tab above. </p>
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> FREE MEDICAL COUNSELING</h6>

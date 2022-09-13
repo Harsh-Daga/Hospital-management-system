@@ -81,7 +81,6 @@ if(isset($_POST['submit']))
                     </div>
                     <div class="text-center">
 					<input type="submit" name="submit" id="submit" value="Login" class="btn btn-raised waves-effect " style="color:#FEC260; font-weight:bolder; background-color:#A10035;" /></div>
-                    <div class="text-center"> <a href="forgot-password.html" style="color:#2A0944;">Forgot Password?</a></div>
                 </div>
             </form>
         </div>
